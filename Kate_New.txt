@@ -1,0 +1,3 @@
+STUDENT 1: Kate New
+Attendance: 63.6%
+Grades (average):45.9%
